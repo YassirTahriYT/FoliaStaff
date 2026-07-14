@@ -1,0 +1,8 @@
+messages:
+  noPermission: "<gradient:#0B6666:#00FFF5><bold>STAFF</bold></gradient> <dark_gray>»</dark_gray> <red>You Do Not Have Permission To Run This Command!"
+  version: "<gradient:#0B6666:#00FFF5><bold>STAFF</bold></gradient> <dark_gray>»</dark_gray> <gray>Running <white>FoliaStaff v%version%."
+  reload: "<gradient:#0B6666:#00FFF5><bold>STAFF</bold></gradient> <dark_gray>»</dark_gray> <gray>Reloaded <white>Configurations."
+  consoleNoAccess: "<gradient:#0B6666:#00FFF5><bold>STAFF</bold></gradient> <dark_gray>»</dark_gray> <red>This Command Can Only Be Ran By Players!"
+  staffChat: "<gradient:#0B6666:#00FFF5><bold>STAFF CHAT</bold></gradient> <blue>%player%</blue> <dark_gray>»</dark_gray> <white>%message%"
+  staffChatToggledOn: "<gradient:#0B6666:#00FFF5><bold>STAFF</bold></gradient> <dark_gray>»</dark_gray> <gray>Staff Chat Toggled <green>ON"
+  staffChatToggledOff: "<gradient:#0B6666:#00FFF5><bold>STAFF</bold></gradient> <dark_gray>»</dark_gray> <gray>Staff Chat Toggled <red>OFF"

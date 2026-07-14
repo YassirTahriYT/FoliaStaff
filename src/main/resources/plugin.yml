@@ -1,0 +1,39 @@
+name: FoliaStaff
+description: Plugin That Adds staff Commands
+version: '${version}'
+
+main: me.Yassir.foliaStaff.FoliaStaff
+api-version: '1.21.11'
+folia-supported: true
+load: POSTWORLD
+
+authors: [ YassirTahriYT ]
+website: clonedupe.net
+
+commands:
+  foliastaff:
+    description: Main FoliaStaff Command
+    usage: /foliastaff <reload/version>
+    aliases: [fs, staff]
+    permission: foliastaff.use
+  staffchat:
+    description: Private Staff Messages
+    usage: /staffchat <message>
+    aliases: [sc, staffc]
+    permission: foliastaff.chat
+  togglestaffchat:
+    description: Toggles Between Staff Chat And Global Chat
+    usage: /togglestaffchat
+    aliases: [togglesc, togglestaffc]
+    permission: foliastaff.chat
+
+permissions:
+  foliastaff.use:
+    description: Public Permission For FoliaStaff
+    default: true
+  foliastaff.op:
+    description: Operator Permission For FoliaStaff
+    default: op
+  foliastaff.chat:
+    description: Access Permission For Staff Chat
+    default: op
