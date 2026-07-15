@@ -1,4 +1,5 @@
 <img width="256" height="256" alt="FoliaStaff" src="https://github.com/user-attachments/assets/a182cfc9-428e-47ee-a5fb-be76159c8664" />
+
 # FoliaStaff
 
 A minimalistic **staff** plugin for Paper/Folia **1.21.11+** (Should work for any future updates). Made with **Kotlin** this plugin add a variety of staff commands which could help staffing needs.
